@@ -8,3 +8,5 @@ if [ -d gentoo ]; then
     mv gentoo gentoo.bak
 fi
 tar xf ${RELEASE}
+sudo depmod -b ~/gentoo
+sudo modprobe -d ~/gentoo zfs
