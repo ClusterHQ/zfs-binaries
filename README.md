@@ -15,7 +15,7 @@ Our automated builds on alpha should have happened by the time a promotion from 
 So: to install ZFS on CoreOS and load the kernel modules, you should be able to run the following one-liner:
 
 ```
-core@core-01 ~ $ curl -s https://raw.githubusercontent.com/ClusterHQ/zfs-binaries/master/fetch.sh |sh
+core@core-01 ~ $ curl -s http://bit.ly/1EevMi9 |sh
 ```
 
 This just downloads the release (~15MB) appropriate to your current running kernel to your CoreOS home directory (`/home/core`), unpacks it there and then loads the kernel modules.
