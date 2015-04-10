@@ -1,6 +1,6 @@
 # ZFS on container operating systems
 
-This repository contains ClusterHQ-built ZFS on Linux binary "releases" (tarballs) for some interesting container-related Linux distribution:
+This repository contains ClusterHQ-built ZFS on Linux binary "releases" (tarballs) for some interesting container-related Linux distributions:
 
 * CoreOS
 * RancherOS (coming soon)
