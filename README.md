@@ -45,6 +45,6 @@ $ sudo zfs create tank/filesystem
 $ sudo zfs snapshot tank/filesystem@now
 ```
 
-You can also try using [Flocker](https://clusterhq.com/) using these releases.
+You can also try deploying with [Flocker](https://clusterhq.com/) using these releases.
 
 Enjoy!
